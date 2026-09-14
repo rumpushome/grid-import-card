@@ -148,7 +148,7 @@ gap in its line. Days with genuinely no import are drawn as real zeros.
 
 **Card doesn't appear**
 The resource isn't loading. Check the URL and that the type is *JavaScript
-Module*. The browser console logs `GRID-IMPORT-CARD v1.0.1` when the card loads.
+Module*. The browser console logs `GRID-IMPORT-CARD v1.0.2` when the card loads.
 
 **Every day reads 0**
 The sensor probably isn't cumulative. If it resets to 0 every night, the card sees

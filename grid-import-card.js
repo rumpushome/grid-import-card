@@ -18,7 +18,7 @@
  *   entity: sensor.grid_import_total
  */
 
-const CARD_VERSION = "1.0.1";
+const CARD_VERSION = "1.0.2";
 const DEFAULT_ACCENT = "#f0a500";
 const STYLES = ["meter", "calendar", "ledger"];
 
